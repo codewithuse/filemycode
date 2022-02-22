@@ -27,6 +27,8 @@ touch file1.java
 git status
 git add .
 git commit -m "this is the first commit"
+ls -lrt   -  it will show the files.
+
 git status
 git log
 git show <commit-id>
